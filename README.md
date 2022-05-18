@@ -3,6 +3,9 @@
 ## 環境・フレームワーク
 Mac OS
 
+初期でターミナルから各種インストールを行う場合、コマンドラインツールのインストールが必要→ 
+Command Line Tools for Xcode
+
 Python3
 
 Jupyter Notebook
