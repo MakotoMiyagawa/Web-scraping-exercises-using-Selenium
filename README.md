@@ -10,7 +10,7 @@ Python3
 
 Jupyter Notebook
 
-Selenium
+Selenium（ver.4.2.5）
 
 Pillow
 
