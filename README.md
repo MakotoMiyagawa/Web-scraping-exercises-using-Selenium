@@ -21,3 +21,7 @@ brew
 chromedriver
 
 Google Chrome
+
+urllib
+
+requests
