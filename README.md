@@ -25,3 +25,5 @@ Google Chrome
 urllib
 
 requests
+
+6/4 windowsへコードクローン
